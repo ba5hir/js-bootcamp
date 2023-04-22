@@ -1,1 +1,1 @@
-# js-day-3
+# js-bootcamp
